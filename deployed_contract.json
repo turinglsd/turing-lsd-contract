@@ -1,0 +1,11 @@
+{
+  "network": "pharos-testnet",
+  "rpc-url": "https://testnet.dplabs-internal.com",
+  "explorer-url": "https://testnet.pharosscan.xyz",
+  "contract-address": {
+    "tuPHRS": "",
+    "WtuPHRS": "",
+    "tuPHRSNativeMinter": "",
+    "tuPHRSERC20Minter": ""
+  }
+}
